@@ -1,4 +1,4 @@
 # ISL
 
-virtualenv venv
+virtualenv venv \b
 pip install -r requirements.txt
